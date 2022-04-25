@@ -6,7 +6,7 @@ if(!currentUser){
 }
 
 // setting welcome text
-$('#welcomeText').html(`Hello ${currentUser.uname}! <br> Welcome 'To Do' List`);
+$('#welcomeText').html(`Hello ${currentUser.uname} <br> Welcome 'To Do' List`);
 
 // code for log out
 $('#logOut').on('click',(e)=>{

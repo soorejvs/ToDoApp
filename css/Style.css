@@ -1,11 +1,11 @@
 
 :root{
-    --themeColor:linear-gradient(to right, #4e4eec, #636366);
+    --themeColor:linear-gradient(to right, #4e7dec, #636366);
     
     
 }
 body{
-    background-color: rgb(31, 146, 199);
+    background-color: rgb(31, 199, 191);
     position: relative;
     min-height: 89vh;
 }
